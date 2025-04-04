@@ -28,3 +28,13 @@ body {
     display: none;
 }
 
+.photo {
+    width: 300px;
+    height: auto;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+    border: 2px solid #fff;
+    display: block;  /* Делаем изображение блочным элементом */
+    margin: 20px auto; /* Центрируем по горизонтали */
+}
+
